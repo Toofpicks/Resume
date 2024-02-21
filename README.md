@@ -47,9 +47,3 @@ University of South Alabama, Mobile, Alabama
 - **Project Management:** Leading IT projects to meet stakeholder requirements.
 - **Problem Solving:** Analytical and troubleshooting skills for technical challenges.
 - **Communication:** Effective liaison between technical teams and stakeholders.
-
-## Professional Affiliations
-- [Any professional affiliations or memberships relevant to your field]
-
-## References
-Available upon request.
