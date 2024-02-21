@@ -26,6 +26,7 @@ University of South Alabama, Mobile, Alabama
 - Led the integration project for the PSA system with UniFi equipment to deliver a tailored network monitoring solution, significantly improving network reliability and performance.
 - Implemented integration with QuickBooks for streamlined billing processes and with Office 365 for enhanced collaboration and productivity.
 - Performed on-premise to Azure environment migrations for 24 local companies, some including hybrid deployments, showcasing expertise in cloud migrations and hybrid cloud environments.
+- Configured cloud networks within Azure, secured by SonicWall appliances, and set up site-to-site networks connecting Azure environments to on-premises networks, ensuring robust security and seamless connectivity.
 - Currently managing custom web app deployments for 4 different companies, demonstrating proficiency in managing diverse web projects and ensuring high levels of performance and security.
 - Played a key role in email deployments and the migration of multiple customers to Microsoft Exchange Online and Office 365, enhancing communication capabilities and collaboration.
 - Tasked with automating processes across many different environments using PowerShell, including file movement and manipulation, automating antivirus scans, and temp file cleaners on schedules, significantly improving operational efficiency and system reliability.
@@ -33,6 +34,7 @@ University of South Alabama, Mobile, Alabama
 - Managed cloud resources for 24 companies, overseeing deployment, configuration, and maintenance to ensure optimal performance and security.
 - Administered SonicWALL devices, providing robust network security and management solutions tailored to organizational needs.
 - Deployed, configured, and managed Windows domain controllers, enhancing network infrastructure and user management across diverse environments.
+
 
 ## Skills
 
